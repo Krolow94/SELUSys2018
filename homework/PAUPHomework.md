@@ -2,7 +2,14 @@
 
 1. From the iterative alignment section: Which aslignment (pasta_script1, pasta_script2, pasta_script3) do you think is the "best"? By what criteria did you arrive at this decision? 
 
+In my opinnion script 2 had the best alignment due to the higher number of homologies present after an intial 
+run of assesments. 
+
 2. In tree searching, when would you expect the swap algorithm to matter strongly?
+
+Certainly when using the moving around larger parts of the tree like the tree bisection & subtree pruning. These 
+types of huersitic shortcuts would matter when looking at a taxanomic group that has several unresolved lineages 
+or when there large gaps in the sequences used for your analysis. 
 
 3. In your own words, what is a bootstrap analysis? Does it make sense to describe a bootstrap value as the probability that a grouping on a tree is correct?
 
