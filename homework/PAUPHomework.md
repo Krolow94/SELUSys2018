@@ -17,7 +17,10 @@ Bootstrap determines how robust your analysis is. It does not make sense to desc
 
 4. What might be a situation in which you would want to use the jackknife instead of the bootstrap? 
 
-Whenever you have a huge data set (all clupidae) that makes it difficult to get a confidence reading for the entire data set.
+Whenever you have a huge data set (all clupidae) that makes it difficult to get a confidence 
+reading for the entire data set because you could possibly have a huge number of possible 
+tree combinations. The pure number of trees then would defintely affect how long it would take 
+to do the calculations and how confident you can be in your final analysis.
 
 5. Transfer your trees to your desktop. Use FigTree or IcyTree to view them. Take a screenshot, and save it to the fig folder in the class repository. Below, complete the file path to where you have the file in the fig directory to embed the image of your screen shot. 
 
