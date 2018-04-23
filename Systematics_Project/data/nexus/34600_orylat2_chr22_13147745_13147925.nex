@@ -1,0 +1,29 @@
+#NEXUS
+begin data;
+	dimensions ntax=22 nchar=129;
+	format datatype=dna missing=? gap=-;
+matrix
+34600_orylat2_chr22_13147745_13147925_acanthurus_japonicus     ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacaggg-g---------ccccacataaatcacac--aggctg
+34600_orylat2_chr22_13147745_13147925_acipenser_fulvescens     tcgttaatgaaaagaatgtagtcacagatctcatttttcagacaattcttgtgtaaactggaaattttccag---------------------------------------------------------
+34600_orylat2_chr22_13147745_13147925_amia_calva               ccgttaatgaaaagaatgtagtcacagatctcatttttcagacaattcttgtgtaaactggaaattttccagtgtatgcgctttggaacaggc-a-----------caccataaatcactcc-aagccg
+34600_orylat2_chr22_13147745_13147925_antennarius_striatus     ccactaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacaggg-g---------ccccacataaatcacac--aggctg
+34600_orylat2_chr22_13147745_13147925_astyanax_fasciatus       ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtctgtgctctgtggagcgagg-g----------------------------------
+34600_orylat2_chr22_13147745_13147925_gadus_morhua             ctgctaatgaaaagaatgcagtcacagatctcatttttcaggcagttcttgtgtaaactggagattttccagtgtacgcactgtggaacccaa-gagggggccccccgacataaatcacacgggggctg
+34600_orylat2_chr22_13147745_13147925_gasterosteus_aculeatus   ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacagggcg---------ccccacataaatcacac--aggctg
+34600_orylat2_chr22_13147745_13147925_haplochromis_burtoni     ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacaggg-g---------ccccacataaatcacgc--gggctg
+34600_orylat2_chr22_13147745_13147925_lampris_guttatus         ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcactgtggagcagga-g---------cggcacataaatcacgc--aggccg
+34600_orylat2_chr22_13147745_13147925_lepisosteus_oculatus     ccgttaatgaaaagaatgtagtcacagatctcatttttcagacaattcttgtgtaaactggaaattttccagagtatgcgctttgaaacaggc-a-----------cgccataaatcactcc-aagctg
+34600_orylat2_chr22_13147745_13147925_megalops_sp              ccactaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggaaattttccagtgtatgcgctgcggaacgggg-g---------gcccccataaatcacccagggcccg
+34600_orylat2_chr22_13147745_13147925_neolamprologus_brichardi ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacaggg-g---------ccccacataaatcacgc--gggctg
+34600_orylat2_chr22_13147745_13147925_oreochromis_niloticus    ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacaggg-g---------ccccacataaatcacgc--gggctg
+34600_orylat2_chr22_13147745_13147925_oryzias_latipes          ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacaagg-g---------ccccacataaatcacac--agactg
+34600_orylat2_chr22_13147745_13147925_osteoglossum_bicirrhosum cggctaatgaaaggaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggaaattttccagtgtgtgccccgtggaacaggggg-----------ccccataaatcagccggagcccg
+34600_orylat2_chr22_13147745_13147925_polypterus_senegalus     tcgttaatggaaagaatgcagtcacagatctcatttttcagacaattcttgtgtaaactggaaattttccagtgtatgcgctctggaacaggc-a-----------tgccataaatcactcc-aagcag
+34600_orylat2_chr22_13147745_13147925_pundamilia_nyererei      ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacaggg-g---------ccccacataaatcacgc--gggctg
+34600_orylat2_chr22_13147745_13147925_strophidon_sathete       ccgctaatgaaaagaatgtagtcacagatctcatttttcagccaattcttgtgtaaactggaaattttccagtgtatgcgctgtggaacaggg-g---------gcctccataaatcacccagggcctg
+34600_orylat2_chr22_13147745_13147925_taenianotus_triacanthus  ctgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacaggg-g---------ccccacataaatcacac--aggctg
+34600_orylat2_chr22_13147745_13147925_takifugu_rupribes        ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcacagtggaacaggg-g---------ccccacataaatcaccc--aggctg
+34600_orylat2_chr22_13147745_13147925_tetraodon_nigroviridis   ccgctaatgaaaagaatgtagtcacagatctcatttttcaggcaattcttgtgtaaactggagattttccagtgtatgcaccgtggaacatgg-g---------ccccacataaatcacgc--aggatg
+34600_orylat2_chr22_13147745_13147925_umbra_limi               ccgctaataaaaagaatagagtcacagatctcatttttcaggctgttcttgtgtaaactggagattttccagtgtatgcactgtggaacaggg----------ctcctccataaatcaccc--agctcg
+;
+end;

@@ -1,0 +1,14 @@
+#NEXUS
+begin data;
+	dimensions ntax=7 nchar=199;
+	format datatype=dna missing=? gap=-;
+matrix
+39911_orylat2_chr3_16396398_16396578_acanthurus_japonicus ccaccactctgtggagtcccatggccccgtgcggccgtcgcagcggcgcccaagtagccttcagtccgatgg---------ccccgcatgcccggggcgtctctcaggggcgcagctctcatgcaactgaagtatgaaataaccatagtaaggaacaggatggtcatcactcttctaacctggtggaactgaaggggga
+39911_orylat2_chr3_16396398_16396578_acipenser_fulvescens -------tctccagagtcccgtggctccgt---------------gcgctgggatagccagggctgccgtgc---------cctcgaatggcaggagcttctttcatgggtgcagctttcatgcaactgaagtacgaaataaccatagtaaggaacaggatggtcatcactcttctcacctggtggaactgcagagaaa
+39911_orylat2_chr3_16396398_16396578_antennarius_striatus ccgtcgctctgtggagtcccgtggcctcggggggccgttgcagcggcgcccaagtagccttcagtccgatgg---------ccccgcatgcccggggcgtctctcaggggcgcagctctcatgcaactgaagtatgaaataaccatagtaaggaacaggatggtcatcactcttctaacctggtggaactggaggggga
+39911_orylat2_chr3_16396398_16396578_astyanax_fasciatus   ----------------------------------------------cccccaggtagccctcggcgcctcggtggccccctccttgcacgcccgggacctctctcatgggcgcagctctcatgcaactgaagtatgaaataaccatagtaaggaacaggatggtcatcactcttctgacctgttggaactggacagagg
+39911_orylat2_chr3_16396398_16396578_lampris_guttatus     ---ccgctttgcggagtcccgtggccccgcgcggccgtcacggcggcgcccaggtagccgtccgtccggtgg---------ctccgcatgcccggggcatctctcaggggcgcagctctcatgcaactgaagtatgaaataaccatagtaaggaacaggatggtcatcactcttctaacctggtggaactgcatgaggg
+39911_orylat2_chr3_16396398_16396578_megalops_sp          ccgccactctctagagtcccgtggctctgtggtgctgtt------gctcccaggtagccctctgctctgtgc---------ccccgcatcccggcggcgtctctcatgggggcggctttcatgcaactgaagtacgaaattaccatagtaaggaacaggatggtcatcactcttctcacctggtggaactgaa-----a
+39911_orylat2_chr3_16396398_16396578_umbra_limi           cccccactctgtggagtcccgtggccccggccggccatcactgctgcacccaagtagccatccgttcggtgg---------ccccgcatacccggaccgtctctcatgggcgcagctctcatgcaactgaagtatgaaataaccatagtaaggaacaggatggtcatcactcttctaacctggtggaactagacagaaa
+;
+end;

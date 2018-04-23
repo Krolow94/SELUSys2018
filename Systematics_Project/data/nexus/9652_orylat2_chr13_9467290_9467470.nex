@@ -1,0 +1,28 @@
+#NEXUS
+begin data;
+	dimensions ntax=21 nchar=28;
+	format datatype=dna missing=? gap=-;
+matrix
+9652_orylat2_chr13_9467290_9467470_amia_calva               ------acaatgtggattgttctctgcg
+9652_orylat2_chr13_9467290_9467470_antennarius_striatus     ------acaatgtggattgttctcagtg
+9652_orylat2_chr13_9467290_9467470_astyanax_fasciatus       ------acaatgtggattgttctcgacg
+9652_orylat2_chr13_9467290_9467470_danio_rerio              ------acaatgcagattgttcttggtg
+9652_orylat2_chr13_9467290_9467470_diaphus_theta            ------acaatgttgattgttctcagtg
+9652_orylat2_chr13_9467290_9467470_gadus_morhua             ------acaatgcggattgttccccgag
+9652_orylat2_chr13_9467290_9467470_gasterosteus_aculeatus   ------acaatgtggattgttctcagtg
+9652_orylat2_chr13_9467290_9467470_haplochromis_burtoni     ------acaatgtggattgttctca--g
+9652_orylat2_chr13_9467290_9467470_lampris_guttatus         ------acaatgtggattgttctcagtg
+9652_orylat2_chr13_9467290_9467470_megalops_sp              ------acaatgcggattgttctcagcg
+9652_orylat2_chr13_9467290_9467470_neolamprologus_brichardi ------acaatgtggattgttctca--g
+9652_orylat2_chr13_9467290_9467470_oreochromis_niloticus    ------acaatgtggattgttctca--g
+9652_orylat2_chr13_9467290_9467470_oryzias_latipes          ------acaatgtggattgttctcagtg
+9652_orylat2_chr13_9467290_9467470_pantodon_buchholzi       ------acaatgtgaattgttctcagcg
+9652_orylat2_chr13_9467290_9467470_polypterus_senegalus     gcaaggacaatgtggattgttttcaatg
+9652_orylat2_chr13_9467290_9467470_pundamilia_nyererei      ------acaatgtggattgttctca--g
+9652_orylat2_chr13_9467290_9467470_strophidon_sathete       ------acaatgtggattgttctcagcg
+9652_orylat2_chr13_9467290_9467470_taenianotus_triacanthus  ------acaatgtggattgttctcagtg
+9652_orylat2_chr13_9467290_9467470_takifugu_rupribes        ------acaatgcggattgttctcggtg
+9652_orylat2_chr13_9467290_9467470_tetraodon_nigroviridis   ------acaatgcagattgttctcagtg
+9652_orylat2_chr13_9467290_9467470_umbra_limi               ------acaatgtagattgttctc---g
+;
+end;

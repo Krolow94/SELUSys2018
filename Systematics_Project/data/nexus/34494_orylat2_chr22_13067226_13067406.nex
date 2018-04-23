@@ -1,0 +1,22 @@
+#NEXUS
+begin data;
+	dimensions ntax=15 nchar=217;
+	format datatype=dna missing=? gap=-;
+matrix
+34494_orylat2_chr22_13067226_13067406_acanthurus_japonicus     tatttattcgttatatttcctaattcagtttgacgaatgagtgacagc-ttgacacttcattcggcaagattaatagaacgacacaatatttacgtggcagagacagccaattatcccaccatctatcatccagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagggaatttatggcttcttgtgtcac
+34494_orylat2_chr22_13067226_13067406_amia_calva               ---------------------------------------------------------------------------------------------------------------------------------------ttatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagggaatttatggctcctcgtgtcgc
+34494_orylat2_chr22_13067226_13067406_anchoa_compressa         attttcggctttgcatt---taattcactttgatgaatgagtgacagc-ttgacaggtcattcagcaagattaatagaac-acacaatatttacgtcgcggagacagccaattatcccgccatatatcacccagattatctttctgattgaaaactactcgtccatgtaatcagaattatttcgaattagaagagaatttatagttgcttgtgtcaa
+34494_orylat2_chr22_13067226_13067406_antennarius_striatus     -------------------------------------------------------------------------------------gatatttacgtggcagagacagccaattatcccaccatctatcatccagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattaggagggaatttatggcttcttgtgtcac
+34494_orylat2_chr22_13067226_13067406_astyanax_fasciatus       tatttattcgttatatttcctaattcagtttgacgaatgagtgacagg-ttgacacctcattcggcaagattaatagaacgacacaatatttacgtcgccgagacagccaattatcccaccatctatcaccaagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagggaatttatggcttcttgtgtcac
+34494_orylat2_chr22_13067226_13067406_diaphus_theta            tatttattcgttatatttcctaattcagtttgacgaatgactgacagc-ttgacacctcattctgcaagattaatagaacgacacaatatttacgtggcagagacagccaattatcccaccatctatcatccagattatctttctgattgaaaactactcgtccatgtaatctgaattatttggaattagaagggaatttatggcttcttgtgtcag
+34494_orylat2_chr22_13067226_13067406_lampris_guttatus         tatttattcgtcatatttcctaattcagtttgacgaatgagtgacagc-ttgacacctcattcggcaagattaatagaacgacacaatatttacgtggcagagacagccaattatcccaccatctatcatccagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagggaatttatagcttcttgtgtcac
+34494_orylat2_chr22_13067226_13067406_lepisosteus_oculatus     tatttattctttatatttcctaattctgtttgatgaatgagtgacaggtttgacacctcattcggagagattaatagaacgacacaatatttacgtcgcacggacagccaattacccaaccatctatcattgagattatctttctgattgaaaactactcgtccatgtaatctgaattatttggaattagaagggaatttatggctcctcgtgtcgc
+34494_orylat2_chr22_13067226_13067406_megalops_sp              tatttattctttatatttcctaattctgtttgatgaatgagtgacagctttgacacctcattcggcgagattaatagaacgacacaatatttacgtcgcggagacagtcaattatcccaccatctatcatcaagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagggaatttatggcttctcgtgtcgc
+34494_orylat2_chr22_13067226_13067406_osteoglossum_bicirrhosum tatttattctttatatttcctaattccatttgatgaatgagtgacagt-ttgacacctcattcgctgagattaatagaacgacacaatatttacgtcgcagagacagccaattatcctaccatctatcatcaagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagggaatttatggcttctcgtgcc--
+34494_orylat2_chr22_13067226_13067406_pantodon_buchholzi       tatttattcttcggatttcctaattctgtttgatgaatgagtgacagc-ttgacacctcattcaccgagattaataggacgacacaatatttacgtcgcctagacagccaattatcctaccatctatcatcaagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaggggaatttatggcttctcatgtcgc
+34494_orylat2_chr22_13067226_13067406_polypterus_senegalus     tatttattctttatatttcctaattcgatttgatgaatgactgacagatctgacacctcattcagcgagattaatagaacgacacaatatttacgtcgcacggacagccaattatccaaccatctatcatcgagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagagaatttatgacttcttatgtcgc
+34494_orylat2_chr22_13067226_13067406_strophidon_sathete       tatttattctttatatttcctaattctgtttgatgaatgagtgacagctttgacacctcattcggcgagattaatagaacgacacaatatttacgtcgcggagacagtcaattatcccaccatctatcatcaagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagggaatttatggcttcttgtgtcgc
+34494_orylat2_chr22_13067226_13067406_taenianotus_triacanthus  tatttattcgttatatttcctaattcagtttgacgaatgagtgacagc-ttgacacttcattcggcaagattaatagaacgacacaatatttacgtggcagagacagccaattatcccaccatctatcatccagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagggaatttatggcttcttgtgtcac
+34494_orylat2_chr22_13067226_13067406_umbra_limi               ----------------------------------------------------------------------------------------atttacgtggcagaggcagccaattatcccaccatctatcatccagattatctttctgattgaaaactactcgtccatgtaatcggaattatttggaattagaagggaatttatggcttcttgtgtcac
+;
+end;

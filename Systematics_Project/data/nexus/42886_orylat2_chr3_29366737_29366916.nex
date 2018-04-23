@@ -1,0 +1,14 @@
+#NEXUS
+begin data;
+	dimensions ntax=7 nchar=96;
+	format datatype=dna missing=? gap=-;
+matrix
+42886_orylat2_chr3_29366737_29366916_acipenser_fulvescens     ------actttgatgctttaaagatccatacatattgattccaactgataataaacaatttgattagcctcttttctataggctgccatttcaatc
+42886_orylat2_chr3_29366737_29366916_astyanax_fasciatus       ------actttgatgctttagcgatccatacatattgattcggagcgataataaacaatttgattagcctc-cttctataggctgtcactccaatc
+42886_orylat2_chr3_29366737_29366916_diaphus_theta            ------actttgatgttttaacaatccatacatattgattcagactgataataaacaatttgattagcctc-tttctataggctgtcatttcaatc
+42886_orylat2_chr3_29366737_29366916_gadus_morhua             ------actttgatgttttaacaatccatacatattgattcagactgataataaacaatttgattagcctc-tttctataggctgtcatttcaatc
+42886_orylat2_chr3_29366737_29366916_osteoglossum_bicirrhosum ------actttgatgttttaacaatccatacatattgatcaggaccgataataaacaatttgattagcctc-tttctatgggccgtcatttcaatc
+42886_orylat2_chr3_29366737_29366916_pantodon_buchholzi       acaagcactttgatgtcctaacaatccatgcgcattgattctgactgataacaaacaatttgattagcctc-cttctgtagggcctcccttcaatc
+42886_orylat2_chr3_29366737_29366916_strophidon_sathete       ------actttgatgctttaacaatccatacatattgattcagactgataataaacaatttgattagcctc-tttctataggctgtcattacaatc
+;
+end;

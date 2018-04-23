@@ -1,0 +1,28 @@
+#NEXUS
+begin data;
+	dimensions ntax=21 nchar=156;
+	format datatype=dna missing=? gap=-;
+matrix
+17695_orylat2_chr16_3007646_3007826_acanthurus_japonicus     --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcacc---------acaaattagcattt-cctcatatt
+17695_orylat2_chr16_3007646_3007826_amia_calva               --ca-gagcatgtagatctggctgggttagattgtcatacttaacaaacattagtgattaatttcctccaccgagttaaatg-----gggctaaagggatgtctcgattcatcttatcgcctc---------tcgaattagcattt--tccatatt
+17695_orylat2_chr16_3007646_3007826_anchoa_compressa         gacgggcgcgtgtagatctggcctggctagattgtcatacttaacaaacattaatgattcatttcctctgctgagtcaaataggagcgggctaaagggatgtctcgattcatcttatcaaaccttctccccggcaaattagcattt--tccatatt
+17695_orylat2_chr16_3007646_3007826_antennarius_striatus     --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcgcc---------acaaattagcattt-ccccatatt
+17695_orylat2_chr16_3007646_3007826_danio_rerio              --ctggagtatgtagatctggcctggctagattgtcatacttaacaaacattaatgaatgatttcctgcgctgagtcaaaca-----gggctaaagggatgcgtc-tttcatcttatcgctgc---------aaaaatgagcattt-tcccatatt
+17695_orylat2_chr16_3007646_3007826_diaphus_theta            --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcacc---------acaaattagcattt-ccccatatt
+17695_orylat2_chr16_3007646_3007826_gadus_morhua             --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccgctgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcatc---------gcaaattagcattt-ctccatatt
+17695_orylat2_chr16_3007646_3007826_gasterosteus_aculeatus   --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgacgcgattcatgttatcgcgcc---------gcaaattagcattt-ctccatatt
+17695_orylat2_chr16_3007646_3007826_haplochromis_burtoni     --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcacc---------acaaattagcattt-ccccatatt
+17695_orylat2_chr16_3007646_3007826_lampris_guttatus         --gc-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcacc---------acaaattagcattt-ccctatatt
+17695_orylat2_chr16_3007646_3007826_lepisosteus_oculatus     --cg-gagcatgtagatctggctgggttagattgtcatacttaacaaacattagtgattaatttcctctactgagttaaatg-----gggctaaagggatgtctcgattcatcttatcatctc---------tcaaattagcattt--tccatatt
+17695_orylat2_chr16_3007646_3007826_neolamprologus_brichardi --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcacc---------acaaattagcattt-ccccatatt
+17695_orylat2_chr16_3007646_3007826_oreochromis_niloticus    --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcacc---------acaaattagcattt-ccccatatt
+17695_orylat2_chr16_3007646_3007826_oryzias_latipes          --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgacttgattcatcttatcgcacc---------ccaaattagcattt-ccccatatt
+17695_orylat2_chr16_3007646_3007826_osteoglossum_bicirrhosum --cg-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccaccgagttaaccg-----aggctaaagggacgtctcgactcatcttatcgctcc---------gcaaattagcattt--cccatatt
+17695_orylat2_chr16_3007646_3007826_pantodon_buchholzi       --gg-gagcatgtagatctggcccagtcagattgtcatacttaacaaacattaatgattaatttcctccaccgagtcaaatgg----gggctaaagggaagtctcgattcatcttatctgcgt---------gcaaattagcattt--cccacatt
+17695_orylat2_chr16_3007646_3007826_pundamilia_nyererei      --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcacc---------acaaattagcattt-ccccatatt
+17695_orylat2_chr16_3007646_3007826_taenianotus_triacanthus  --ct-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcacc---------acaaattagcatttcccccatatt
+17695_orylat2_chr16_3007646_3007826_takifugu_rupribes        --ct-gagtatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgacttgattcatcttatcgcatc---------acaaattagcattt-ccccatatt
+17695_orylat2_chr16_3007646_3007826_tetraodon_nigroviridis   --ct-cagtatgtagatctggcccagttagattgtcatacttaacaaacattaatgattaatttcctccactgagtcaaatg-----gggctaaagggatgactcgattcatcttatcgcacc---------acaaattagcattc-ccccatatt
+17695_orylat2_chr16_3007646_3007826_umbra_limi               --gg-gagcatgtagatctggcccagttagattgtcatacttaacaaacattaatgattcatttcctccactgagtcaaatg-----gggctaaagggatgtctcgattcatcttatcgcact---------acaaatgagctttt--cccatatt
+;
+end;

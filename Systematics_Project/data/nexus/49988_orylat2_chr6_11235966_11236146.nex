@@ -1,0 +1,17 @@
+#NEXUS
+begin data;
+	dimensions ntax=10 nchar=264;
+	format datatype=dna missing=? gap=-;
+matrix
+49988_orylat2_chr6_11235966_11236146_acipenser_fulvescens     ----tactgtgcttcattaggaaacaaaatataagctttccacaccattaggaatgactttaggagagaaagcacataagacgaagactcacctcatcaacaatg---------------------------------------------------------------------------------------------------------------------------------------------------------------
+49988_orylat2_chr6_11235966_11236146_amia_calva               -----actgtgcttcattaggaaacaaaatataagctttccagtccattaggaatgactttaggagcgaaagcacataagactccgactcacctcatcaacaatgcattgcaataactggagaggcttgaatgggggagagagagagagagagagagagaaagaaaaa-----cagtattagcctatatgcaatatctttacagtagagtggcgagaaaaatcattaatgcaataaa-----atgtagtaagattaatcaaaag
+49988_orylat2_chr6_11235966_11236146_astyanax_fasciatus       cctccaccgtgcttcattaggaaacaaaatataagctttccactccattaccaatgactttaggagctacagcacataagacggcgactcacctcatcaacaatgcattgcaataactgcacaggcttgaacagcctacaaggagagacagagagagggagagag----------------------------------------agagagggagggagagggtacagagcaaagggg--------------------------
+49988_orylat2_chr6_11235966_11236146_danio_rerio              acttcaccgtgcttcattaggaaacaaaatataagctttccactccattaccaatgactttaggagtgaaagcacataagacggcgactcacctcatcagcaatgcattgcaataaacgcgcaggcttgaagagag-agagagagagagg------------------------------------------------------------------------------------------------------------------
+49988_orylat2_chr6_11235966_11236146_lepisosteus_oculatus     ----taccgtgcttcattaggaaacaaaatataagctttccactccattaggaatgactttaggagcgaaagcacataagacgccgactcacctcatcaacaatgcattgcaataactgaagaggcttgaatgggagagagagagagaaa-----------------------cagtattagcctatatgcaatatctttacagtagagtggcgagaaaaatcattaatgcaataaa-----atgtagtaagattaatcaaaag
+49988_orylat2_chr6_11235966_11236146_osteoglossum_bicirrhosum --agtaccgtgcttcattaggaaacaaaatataagctttccactccattaacaatgactttaggagcgaaagcacataagacgccgactcacctcatcaacaatgcattgcaataactggagaggcttgaatgggggacagacaggcaagaacagagaaaa------------ccatattagcctacatgcaatatctttacagtagatttgcaaggagaatcattaatgtagtaaa-----atgttgtcagattaatcaaaag
+49988_orylat2_chr6_11235966_11236146_pantodon_buchholzi       --tctaccgcgcttcattaggaaacaaaatataagctttccactccattaagaatgactttaggagtgaaagcacataagacggcgactcacctcatcaacaatgcattgcaataactgaagaggcttgaatgggagaaagagagggaagggagagaa---------------gcgtattagcttacatgcaatatctttacagtagattggcacggaaaatcattaatgtaataaa-----atgtagtccgattaatcaaaag
+49988_orylat2_chr6_11235966_11236146_polypterus_senegalus     gtggcagcgagcgtcattaggaca-----------ctttccaggccattaggaacgagtttgggagcgaaagcacataagacgg-gactcacctcatcaacaatgcactgcagcagctgaagaggcttgaggagcagggagagacagaaa-----------------------gagcattagcctgtatgcaatatctgtacagtagagtggaaagaaaaatcattaatgcaataaa-----atgcagcgagattaatcaaaag
+49988_orylat2_chr6_11235966_11236146_salvelinus_fontinalis    ----cactgtgcttcattaggaaacaaaatataagctttccacaccattaggaatgactttaggagagaaagcacataagacgccgactcacctcatcaacgatgcattgcagtaactggagaggcttgaacgggg-agacggagaggagtggagagaagaagaaaactaaataagtattagtctacatgtgacgttacgacagtacggtggcagagaaaatcactaatgtaataaaa----aggtatttacattaatcaaat-
+49988_orylat2_chr6_11235966_11236146_umbra_limi               ----cactgtgcttcattaggaaacaaaatataagctttccaccccattaggaatgactttagaagcgaaagcacataagacgccgactcacctcatcaacgatgcattgcagtaactggagaggcttgaatggga-agacagacacaagaagaa------------------acgtattagcctgcatgcaacattccaacagtacagtgggaaagaaaatcattaatgtaataaaaaggtatgtatttagattaatcaaatg
+;
+end;

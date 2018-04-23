@@ -1,0 +1,24 @@
+#NEXUS
+begin data;
+	dimensions ntax=17 nchar=102;
+	format datatype=dna missing=? gap=-;
+matrix
+33068_orylat2_chr22_5778212_5778392_acanthurus_japonicus     ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_anchoa_compressa         --------caaactaacctctgtcagcggtcacaatcctttggtaaggatggactcgcgtgtcatgtcgtctcactttagaggccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_diaphus_theta            ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_gadus_morhua             ---gtttctaaactgacctctgtcaggggtcacaatcctttggtaaggatggacccgagagtcatgccgtctcactttagaagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_gasterosteus_aculeatus   ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_haplochromis_burtoni     ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_lampris_guttatus         ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtatcatgtcgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_neolamprologus_brichardi ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_oreochromis_niloticus    ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_oryzias_latipes          ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_pantodon_buchholzi       gggagtactaaactaacctctgtcagcggtcaccaccctttggtagggatgaacccgcatttcgtgccttcgaaccttagtagccaccgcacctgcttgaat
+33068_orylat2_chr22_5778212_5778392_polypterus_senegalus     accataactaaactaacctcggtctgcggtcacaatcctatggtaaggatggacccgcatatcgtgccttcgtactttagtagccaccgcacctggttagat
+33068_orylat2_chr22_5778212_5778392_pundamilia_nyererei      ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_strophidon_sathete       ---aggactaaactaacctctgtcagcagtcacaatcctttggtaaggatggacgcgagagtcatgtcgcctcattttagtagccattgcccctgg----at
+33068_orylat2_chr22_5778212_5778392_taenianotus_triacanthus  ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_takifugu_rupribes        ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+33068_orylat2_chr22_5778212_5778392_tetraodon_nigroviridis   ---gagactaaactgacctctgtcagcggtcacaatcctttggtaaggatggacccgcgtgtcatgccgtctcactttagtagccattgcacctag----at
+;
+end;

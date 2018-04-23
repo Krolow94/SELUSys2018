@@ -1,0 +1,15 @@
+#NEXUS
+begin data;
+	dimensions ntax=8 nchar=221;
+	format datatype=dna missing=? gap=-;
+matrix
+49751_orylat2_chr6_10224993_10225172_acanthurus_japonicus     t-ggggagcagatggtgacattccacatgaccaaactgatcaatcagcatgctgggacgcaggtgcagcacaggcgggcagcaccacaccatctatttcaccatctacggg-----gcacaaacacatgggcaccaatt-gtggcaccctgaggg-tctgcatg-----------ctcctctgtcccgctgtgccaaggttgatgacatcagaatttccca
+49751_orylat2_chr6_10224993_10225172_antennarius_striatus     t-ggggagcagatggtgacattccacatgaccaaactgatcaatcagcatactgggacgcaggtgcagcgcaggcgggcagcaccacaccatctatttcaccatctacagg-----gcacaggcacatgggcaccactc-atggcgccctgaggg-gcagcatg-----------ctcccctgtcccgctgtgccaaggttgatgacatcagaatttccct
+49751_orylat2_chr6_10224993_10225172_gadus_morhua             gggggcagcagatggtgacattccacatgaccaaactgatcaatcagcgtgctgggacgcaggtgcagcgcagccgggctccac-acaccctctgcgtccaggagggcaggcaaacacacacacacacacacac--------------------------------------------------------------------------acacacacacaca
+49751_orylat2_chr6_10224993_10225172_lampris_guttatus         c-ggggagcagatggtgacattccacatgaccaaactgatcaatcagcatgctgggacgcaggtgcagcacaggcgggcagcaccgcgccatctatttccccgactatggg-----gcacaaacacatgggcactgatt-gtggcaccctaaggg-tctgcgtg-----------ctcttctatcccgctgtgccaaggttgatgacatcagagtttccca
+49751_orylat2_chr6_10224993_10225172_lepisosteus_oculatus     ctgcagaccagatgggaacattccacatgaccaaaccaatcaatcacctcggtggggcgcaggtgcatcacagccgtgcagaaacacacc----atttcacagtctatcgg-----gcacaaacacatggtcaccaatcaatggcaccctaagga-cctccaagagggggaggctctctggagccctactggttcatgcctgatgacttcataatcacaca
+49751_orylat2_chr6_10224993_10225172_osteoglossum_bicirrhosum ttgtggaccagatgggaacattccacatgaccaaaccaatcaatcaccttggtgggacgcaggtgtgacacagccgtgtggcagcgcacc----atttcacagtctatcgg-----gcacaaacacatggccaccaatcaatggcaccccaaaggggctgcaggagggagagggtccctcgagtcctactggctcacggctgatgacttcataat------
+49751_orylat2_chr6_10224993_10225172_taenianotus_triacanthus  cgggggagcagatggtgacattccacatgaccaaactgatcaatcagcatgctgggacgcaggtgcagcacaggcgggcagcaccacaccatctatttcaccatctacggg-----gcacaaacacatgggcaccaatc-gtggcaccctgaggc-tctgcatg-----------ctcctctgtcctgctgtgccaaggttgatgacatcagaatttccca
+49751_orylat2_chr6_10224993_10225172_umbra_limi               ccagggaccagatggtgacattccacatgaccaaactgatcaatcagcctgctgggacccaggtgcagcacagaagggcactgctaaccc-----------------------------------------------------------------------------------------------------------------------------------
+;
+end;

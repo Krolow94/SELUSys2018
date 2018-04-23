@@ -1,0 +1,29 @@
+#NEXUS
+begin data;
+	dimensions ntax=22 nchar=131;
+	format datatype=dna missing=? gap=-;
+matrix
+42136_orylat2_chr3_28115321_28115501_acanthurus_japonicus     --ctctctttgaa-ggggaacagatgtagatttacatatgtggaggc------tccccagcctgtgatgagattagctggtt--gggatctttcttcacagca--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_amia_calva               ---ctcctttgaa-ggggaacagatgtagatttacatatctggaggt------ccct-cgactctgatgagattaggtggtg-------tttttttaaatcca--actggaaggtgca-tatttaataaac
+42136_orylat2_chr3_28115321_28115501_anchoa_compressa         ---cccctttgaa-ggggaacagatgtagatttacatatgtggaggt------ctcgggctttctgatgagattagccgttgtgttttctctccctctctctc----------------tgtttctttatt
+42136_orylat2_chr3_28115321_28115501_antennarius_striatus     --ctctctttgaa-agggaacagatgtagatttacatatgtggaggg------tccccagcctgtgatgagattagctggtt--gggatctttctccacagca--actggaaggtgca-tatttaatacat
+42136_orylat2_chr3_28115321_28115501_diaphus_theta            --ccgtctttgaagggggaacagatgtagatttacatatgtggaggg------tccccggcctctgatgagattagctgctc--ggtctcctttcttaacggaagagtggaaggtgca-tatttaataaag
+42136_orylat2_chr3_28115321_28115501_gadus_morhua             --ccgcctttgaa-ggggaacagatgtagatttacatatgtggaggg------tcccttgcctctgatgagattagctggtt--ggggtctttcttcacagcc--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_gasterosteus_aculeatus   --ctctctttgaa-ggggaacagatgtagatttacatatgtggaggg------tccccagcctgtgatgagattagctggtt--gggatctttcttcacagca--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_haplochromis_burtoni     --ctttctttgaa-ggggaacagatgtagatttacatatgtggaggg------tccccagcctgtgatgagattagctggtt--gggatctttcttcacagcg--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_lampris_guttatus         --ctgtctttgaa--gggaacagatgtagatttacatatgtggaggg------tcccgggtctctgatgagattagctggttcagagtctttttttcacagcg--actgcaaggtaca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_lepisosteus_oculatus     ---ctcctttgaa-ggggaacagatgtagatttacatatctggagat------ccct-cgcctctgatgagattagatgggt--------tttttttaaccca--actggaaggtgca-tatttaataaac
+42136_orylat2_chr3_28115321_28115501_megalops_sp              ---ctcctttgaa-ggggaacagatgtagatttgcatatgtggaggt------ccct-cgtctctggcgagattagttggag---------tttttcaacccg--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_neolamprologus_brichardi --ctttctttgaa-ggggaacagatgtagatttacatatgtggaggg------tccccagcctgtgatgagattagctggtt--gggatctttcttcacagcg--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_oreochromis_niloticus    --ctttctttgaa-ggggaacagatgtagatttacatatgtggaggg------tccccagcctgtgatgagattagctggtt--gggatctttcttcacagcg--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_oryzias_latipes          --ctctctttgaa-ggggaacagatgtagatttacatatgtggaggg------tccccagcctgtgatgagattagctggtt--gggatctttcttcacaatg--tctgaaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_osteoglossum_bicirrhosum ---ctcttttgaa-ggagaacagatgccgatttacatatgtgggggt------cccctggtctctgatgagattaagacggt-------gggttttcggccca--actggaaggtgcattttttaataagt
+42136_orylat2_chr3_28115321_28115501_pundamilia_nyererei      --ctttctttgaa-ggggaacagatgtagatttacatatgtggaggg------tccccagcctgtgatgagattagctggtt--gggatctttcttcacagcg--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_salvelinus_fontinalis    ctctccctttgaa-ggggaacagatgtagatttacatatgtggaggtccctggtccctggcctctgatgagattagctgggt----ggtgtggtttcatggcg--actggaaggtgca-tatttaatc---
+42136_orylat2_chr3_28115321_28115501_strophidon_sathete       ---ctcctttgaa-ggggaacagatgtagatttacatatctggaggt------ccct-cctctctgatgagattagttggtg---------tttttcgagcca--actggaaggtgca-tatttaataaac
+42136_orylat2_chr3_28115321_28115501_taenianotus_triacanthus  --ctttctttgaa-ggggaacagatgtagatttacatatgtggaggg------tccccagcctgtgatgagattagctggtt--gggatctttcttcacagca--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_takifugu_rupribes        --ctctctttgaa-ggggaacagatgtagatttacatatgtggaggg------tccccagtctgtgatgagattaactggtt--gggatctttcttcacagca--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_tetraodon_nigroviridis   --ctctctttgaa-ggggaacagatgtagatttacatatgtggaggg------tccccagtctgtgatgagattaactggtt--gggatcttttttcacagca--actggaaggtgca-tatttaataaat
+42136_orylat2_chr3_28115321_28115501_umbra_limi               ctccgcctttgaa-ggggaacagatgtagatttacatatgtggaggtccctggtccctggcctctgatgagattagctgggt-ggcggtggggattcgtgccg--attggaaggtgca-tatttaatcaag
+;
+end;

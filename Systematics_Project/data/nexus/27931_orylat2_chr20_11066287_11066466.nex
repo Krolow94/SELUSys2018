@@ -1,0 +1,29 @@
+#NEXUS
+begin data;
+	dimensions ntax=22 nchar=62;
+	format datatype=dna missing=? gap=-;
+matrix
+27931_orylat2_chr20_11066287_11066466_acanthurus_japonicus     aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_anchoa_compressa         agtcacagatgccacacttgtgcatcaataaatac-gtataagtaacttatttaggagc---
+27931_orylat2_chr20_11066287_11066466_antennarius_striatus     aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_astyanax_fasciatus       aggaacagatgccacccttgtgcatcaataaatgc-ttataagtaacttatttggagct---
+27931_orylat2_chr20_11066287_11066466_danio_rerio              aggaacagatgccacacttgtgcatcaataaatgc-ttataagttacttatttagtgct---
+27931_orylat2_chr20_11066287_11066466_diaphus_theta            aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_gadus_morhua             aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_gasterosteus_aculeatus   aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_haplochromis_burtoni     aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_lampris_guttatus         aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_lepisosteus_oculatus     aggaacagataccacacttgtgcctcaattattgc-ttataagtaacttatttag-------
+27931_orylat2_chr20_11066287_11066466_neolamprologus_brichardi aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_oreochromis_niloticus    aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_oryzias_latipes          aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_osteoglossum_bicirrhosum aggaacagatgccactcctgcgcatcaataaatgc-gtataagtaacttatttagggat---
+27931_orylat2_chr20_11066287_11066466_pantodon_buchholzi       aggaacagatgccacacttgcgcatcaataactgctttataagtaacttatttag-------
+27931_orylat2_chr20_11066287_11066466_pundamilia_nyererei      aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_salvelinus_fontinalis    gggaacagatgccacacttgtgcatcaataaatac-ttataagtcacttatttaggggctga
+27931_orylat2_chr20_11066287_11066466_taenianotus_triacanthus  aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_takifugu_rupribes        aggaacagatgccgtacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_tetraodon_nigroviridis   aggaacagatgccacacttgtgcatcaataaatgc-ttataagtaacttatttagggct---
+27931_orylat2_chr20_11066287_11066466_umbra_limi               gagaacagatgccagacttgtgcatcaataaatgc-ttataagtaacttatttaggggctgc
+;
+end;

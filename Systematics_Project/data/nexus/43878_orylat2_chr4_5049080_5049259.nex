@@ -1,0 +1,26 @@
+#NEXUS
+begin data;
+	dimensions ntax=19 nchar=200;
+	format datatype=dna missing=? gap=-;
+matrix
+43878_orylat2_chr4_5049080_5049259_acanthurus_japonicus     aaaccccatttgtcttgttaatgc-tcccctctgattacctgattgcactggatgactgtggagaaatctgattgcgtaaaattatatagagc---aaacttttgattg---gggag-ggatctggcgagc-ttgctgccaccattgacagg---ctttgtgaaatttggccttgctgatttgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_anchoa_compressa         aaagtgcatttgtcttgttaatgtgccccctctgattacctgattgctctggatgactgcagagaaatctgattgcttgaaattatacagggctaaaaacttttgattg---gagca-ggattcaaggggg-atg-----------------------------------------------------------------
+43878_orylat2_chr4_5049080_5049259_antennarius_striatus     aaaccccatttgtcttgttaatgc-tcccctctgattacctgattgcactggatgactgtggagaaatctgattgtgtaaaattatatagagc---aaacttttgattg---gggag-ggatctggtgagc-ttgctgccaccattgacagg---ctttgtgaaatttggcctcactgatttgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_astyanax_fasciatus       aaaccccatttgtcttgttaatgt-gccccactgattacctgattgcactggatgactgtggagaaatctgattgcgtgaaattatacagagc-aaaaacttttgattgtgcagaat-gaatctgggatgc-tcgccgccgccgtttgacggggcccctgtgaaatttggcctcattgatttcaaatcagccaagtgcca
+43878_orylat2_chr4_5049080_5049259_danio_rerio              aaaccccatttgtcttgttaatgg-gccccactgattacctgattgcactggatgactgtggagaaatctgattgcgtgaaattatacagagc-aaaaacttttgattg---gggaatggatctgggatgc-tcgttgc-------------------------------------------------------------
+43878_orylat2_chr4_5049080_5049259_diaphus_theta            aaaccctatttgtcttgttaatgc-acccctctgattacctgattgcactggatgactgtggagaaatctgattgcataaaattatatggagc---aaagttttgattg---ggacg-ggatctggcaagctttgctgccaccattgacaag---ctttgtgaaatttggccccactgatttgaaatcagctgagtgtca
+43878_orylat2_chr4_5049080_5049259_gasterosteus_aculeatus   aaaccccatttgtcttgttaatgc-tcccctctgattacctgattgcactggatgactgtggagaaatctgattgcgtaaaattatatagagc---aaacttttgattg---gggag-ggatctggcgagctttgctgccaccattgacagg---ctttgtgaaatttggcctcgctgatttgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_haplochromis_burtoni     aaaccccatttgtcttgttaatgc-tcccctctgattacctgattgcactggatgactgtggagaaatctgattgcgtaaaattatatagagc---aaacttttgattg---gggag-ggatctggcgagc-ttgctgccaccattgacagg---ctttgtgaaatttggcctcgctgatttgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_lampris_guttatus         aaaccccatttgtcttgttaatgc-taccctctgattacctgattgcactggatgactgtggagaaatctgattgcgtaaaattatatagcgc---aaacttctgattg---gggag-ggatctggcaagc-ttgctaccaccattgacaga---ctttgtaaaatttggccccactgacttgaaatcagccaaatgtca
+43878_orylat2_chr4_5049080_5049259_lepisosteus_oculatus     gtaatctgtttgtcttgtaaatgc-tctcctctgattacctgattgcacaaggcaactacagagaaatctgattgtgtaaaattatacacagc---aaacttttgattg---tag-g-ggatccaggatgc-ctgttgtaaccattgatggaa--ggttgtaaaatttggcttcggtgatttgaaagcagtaaagtgcca
+43878_orylat2_chr4_5049080_5049259_neolamprologus_brichardi aaaccccatttgtcttgttaatgc-tcccctctgattacctgattgcactggatgactgtggagaaatctgattgcgtaaaattatatagagc---aaacttttgattg---gggag-ggatctggcgagc-ttgctgccaccattgacagg---ctttgtgaaatttggcctcgctgatttgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_oreochromis_niloticus    aaaccccatttgtcttgttaatgc-tcccctctgattacctgattgcactggatgactgtggagaaatctgattgcgtaaaattatatagagc---aaacttttgattg---gggag-ggatctggcgagc-ttgctgccaccattgacagg---ctttgtgaaatttggcctcgctgatttgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_oryzias_latipes          aaaccccatttgtcttgttaatgc-tcccctctgattacctgattgcactggatgactgtggagaaatctgattgcgtaaaattatatagagc---aaacttttgattg---ggg-g-ggatctggcgagc-ttgctgccaccattgacagg---ctttgtgaaatttggcctcactgatttgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_pundamilia_nyererei      aaaccccatttgtcttgttaatgc-tcccctctgattacctgattgcactggatgactgtggagaaatctgattgcgtaaaattatatagagc---aaacttttgattg---gggag-ggatctggcgagc-ttgctgccaccattgacagg---ctttgtgaaatttggcctcgctgatttgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_salvelinus_fontinalis    caaccccatttgtcttgttaatgt-acccctctgattacctgattgcgctggatgactgtggagaaaatctgattgccaaaattatatagagc--aaaacttttgattg---gggag-ggatctaggatgc-atg-----atcgttgacggggcctgatgtgaaatttggcctcattgatttcaaatcagcgaagtggca
+43878_orylat2_chr4_5049080_5049259_taenianotus_triacanthus  aaaccccatttgtcttgttaatgc-tcccctctgattacctgattgcactggatgactgtggagaaatctgattgcgtaaaattatatagagc---aaacttttgattg---gggag-ggatctggcgagc-tcgctgccaccattgacagg---ctttgtgaaatttggcctcgctgatttgaaatcaactaagtgtca
+43878_orylat2_chr4_5049080_5049259_takifugu_rupribes        aagccccatttgtcttgttaatgc-tcccctctgattacctgattgcactgaatgactgtggagaaatctgattgcataaaattatatagagc---aaacttttgattg---gggag-ggatctggtgagc-ttgctggcaccattgaaagc---ctttgtgaaatttggcctctctgatttgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_tetraodon_nigroviridis   aagccccatttgtcttgttaatgc-tcccctctgattacctgattgcactgaatgactgtggagaaatctgattgcataaaattatatagagc---aaacttttgattg---gggag-ggatctggtgagc-ttgctggcaccattgaaagc---ctttgtgaaatttggcctctctgattcgaaatcagctaagtgtca
+43878_orylat2_chr4_5049080_5049259_umbra_limi               aaacctaatttgtcttgttaatgt-gcccctctgactacctgattgcactggatgactgtggagaaaatctgattgccgaaattacatagagc--aaaacttttgattg---gggag-ggatcatcattgcacgcttgcctcttttgacagg-actgatgtgaaatttggcctcattgatttcaaatcagcaaagtggca
+;
+end;

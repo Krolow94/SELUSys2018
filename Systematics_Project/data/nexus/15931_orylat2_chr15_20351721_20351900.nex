@@ -1,0 +1,20 @@
+#NEXUS
+begin data;
+	dimensions ntax=13 nchar=192;
+	format datatype=dna missing=? gap=-;
+matrix
+15931_orylat2_chr15_20351721_20351900_acanthurus_japonicus     -----------------------------------------------------------ccgggggcgctggagtagactttgtcagctgctcataatttatacatcttatctccatcagaaga---aaagacagagtgc-----cgcgttgtgtatatggagatg-aaaacac---tgggcttgtttaggc
+15931_orylat2_chr15_20351721_20351900_amia_calva               gtgcctgcaggggccacatcagttacctgctgacacgcagagaa-tgattgatgagctgcctgaggcgctggagtatactttgtcagccgctcataatttatacatcttatctctgtcagaaca---aaagacagagcgg------------tgtatatggaaatg-aaaaca----gaggcttgtttaggt
+15931_orylat2_chr15_20351721_20351900_anchoa_compressa         gtgccttcggggcccacatcacttacctgctgacacacaggaca-tgattgatgagccgcctcgggcgctggagtctactttgtcagccgctcataatttatacatcttatctctgtcagaagagagagagatggagcac------------ggcacatggatatg-aaaaca----ctgccttgtttaggg
+15931_orylat2_chr15_20351721_20351900_antennarius_striatus     gtgcctccgggggccacgtcagttacctgctgacacacaggctagtgattgatgagatgccgggggcgctggagtagactttgtcagctgctcataatttatacatcttatctccatcagaaga---gaagacatagtgc-----cgcgttgtgtatatggagatg-aaaacac---tgagcttgtttaggc
+15931_orylat2_chr15_20351721_20351900_astyanax_fasciatus       gtgcctccgggggccacatcacttacctgctgacacgcaggaca-tgattgatgagcagcctcgggcgctggagtcgactttgtcagctgctcataatttatacatcttatctctgtcagaaga---aaagagagagcgt------------ggcgtatggaaatg-aaaacac---gggtcttgtttaggc
+15931_orylat2_chr15_20351721_20351900_diaphus_theta            gtgcctccgggggccacgtcagttacctgctgacatgcgggctagtgattgatgagctgccggcggcactggagtcgactttgtcagctgctcataatttatacatcttatctccgtcagaaga---aaagacagagtgc-----agagtggcgtacacgcagatg-aaaacacccgcgtgcttgtttaggc
+15931_orylat2_chr15_20351721_20351900_lampris_guttatus         gtgcctccgggggccacgtcagttacctgctgacacacaggctagtgattgatgagacgccgggggcgttggagtagactttgtcagctgctcataatttatacatcttatctccgtcagaaga---aaagacagagtgc-----cgcatcgtgtatatggagatg-gaaacac---cgggcttgtttaggc
+15931_orylat2_chr15_20351721_20351900_lepisosteus_oculatus     gtgcccgtaggggccacatcagttacctgctgacacacagaaca-tgattgatgagctgcctcaggcactggagtatactttgtcagccgctcataatttatacatcttatctctgtcagaaca---aaagacagagcgc------------tgtatatggaaatg-aaaaca----gaggcttgtttaggt
+15931_orylat2_chr15_20351721_20351900_megalops_sp              gtgcctgtaggggccacatcagttacctgctgacacgctgaaca-tgattgatgagccgcctcaggcactggagtatactttgtcagctgctcataatttatacatcttatctctgtcagaaca---aaagacagagcgc------------ggcatatggaaatg-aaaaca----gaggcttgtttaggc
+15931_orylat2_chr15_20351721_20351900_osteoglossum_bicirrhosum gtgcctgtaggggccacatcagttacctgctgacacgcagaaca-tgattgatgaaccgcctcgggcgctggagtacactttgtcagctgctcataatttatacatcttatctctgtcagaaca---aaagacggagcgc------------cgtatatggaaatg-aaaaca----gagacttgtttaggc
+15931_orylat2_chr15_20351721_20351900_pantodon_buchholzi       gtgcctgtaggggccacatcagttacctgctgacatgcagaaca-tgattgatgaagcgccccaggcgctggagtatactttgtcagctgctcataatttatacatcttatctctgtcagaaca---aaagcgggagctc------------cgtatatggaaatg-aaaaca----gaggcttgtttaggc
+15931_orylat2_chr15_20351721_20351900_polypterus_senegalus     gagcctgtaggggccacatcagttaccagctgacatacagaaaa-agattgatgagctgcctgaggcactggagtatactttgtcagctgctcataatttatacatcttatctctgtcagaaca---aaagacagatagg------------tgcatatggaaatg-aaaaca----gaggcttgtttaggt
+15931_orylat2_chr15_20351721_20351900_salvelinus_fontinalis    gtgcctccggggcctgcatcagttacctgctgacatgcagactg-tgattgatgagacgcccggggctctagagtagac--cgtcagctgctcataatttatacatcttatctctgtcagaaga---gaagacagagcgccacaccgcattgcttatattgagatgaaaaacac---agtgcttgtttaggc
+;
+end;

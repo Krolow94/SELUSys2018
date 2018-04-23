@@ -1,0 +1,10 @@
+#NEXUS
+begin data;
+	dimensions ntax=3 nchar=372;
+	format datatype=dna missing=? gap=-;
+matrix
+2875_orylat2_chr10_6737149_6737329_anchoa_compressa     -----gttgatctgtgactggtggcatgtttgctcctgtcaggtttgtcccaatgataatgcccctagggctggcttctaaccggtggccggtggtgctgtagcccgtgtctgagagatggggaaccgagtggtggtcaacatatgcacgggccctcgtctcagggtagtctcgcagattgtgcgaggggcagagttttaaggaactgccggtggggtgccccatgtgctcccctgccaaaggtggcagcaccacgctgggttcagtattgctctcccc---------------------------------------------------------------------------------------------
+2875_orylat2_chr10_6737149_6737329_danio_rerio          ----------------------------------------------------------------------------------------------ctggtgtatccagtgtctggaaaatgggtaaccga---gtggtcaacatatgcactggccctcgtctcgtggtagtctcgcaaattttgcgaggggcagagttttaaggaactgccagtggggtgccccatgtgctcctctgccaaaggtggcagcatcacgctgggttcagtattgctctccccagggttgacgcaagaaagagggcagccactaaaccgcgacaggcttgtcatgttttgttgcaagcttggctgagggcttggcaaatcaa----
+2875_orylat2_chr10_6737149_6737329_lepisosteus_oculatus cgccagctgatcggtaacgggcggcatgctcgtcccggagaggtcggctccaccgacaatgcccctaggattttgtgctacgcggtgg------cttgcgtatccggagtctgaaggctggggggcaga---gtaaccaacataagcaccggacctcgactcggggtagtctcgtaaactgtgcgaggggcagagttttaaggagctgccggtggggtgccccatgtgctcccctgccaaaggtggcagcaccacgctgggttcagtattagtctccccaggatagacgtaagaaaaagggcagccactaaacctcggcaggcctgtcatgttttgttgtgagtgcggctgtgaacctgcaaaatcaaccaa
+;
+end;

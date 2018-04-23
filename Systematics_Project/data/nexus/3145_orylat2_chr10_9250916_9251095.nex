@@ -1,0 +1,27 @@
+#NEXUS
+begin data;
+	dimensions ntax=20 nchar=79;
+	format datatype=dna missing=? gap=-;
+matrix
+3145_orylat2_chr10_9250916_9251095_acanthurus_japonicus     cg--ggaacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_amia_calva               ca--agaatatttaaatgctaatattataagctcacaagcataatatgataagctgacaagcttaatattataagc--t
+3145_orylat2_chr10_9250916_9251095_anchoa_compressa         ca--ggaatatttaaatgctaatatcttaagctcacaagaataatatgataagctgacaagct---tattatataccgc
+3145_orylat2_chr10_9250916_9251095_antennarius_striatus     cg--ggaacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_danio_rerio              tt--agaatattttaatgctaatattataagctcacaagcataatatgataagctgacaagct---tattctaagc--t
+3145_orylat2_chr10_9250916_9251095_diaphus_theta            ca--ggaacatttaaatgctaatattataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_gadus_morhua             cg--gggacattaaaatgctaatattctgagcgcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_gasterosteus_aculeatus   ca--ggaacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_haplochromis_burtoni     ca--ggaacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_lampris_guttatus         ca--ggaacatttaaatgctaatattataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_megalops_sp              tg--agaatatttaaatgctaatattataagctcacacgcataatatgataagctgacaagcttaatattataggc--t
+3145_orylat2_chr10_9250916_9251095_neolamprologus_brichardi ca--ggaacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_oreochromis_niloticus    ca--ggaacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_oryzias_latipes          ca--ggaacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_osteoglossum_bicirrhosum ca--agaatatttaaatgctaatattataagctcacaagcataatatgataagctgacaagcttaatattataagc--t
+3145_orylat2_chr10_9250916_9251095_pundamilia_nyererei      ca--ggaacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_taenianotus_triacanthus  cg--ggaacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_takifugu_rupribes        gagggggacatttaaatgctaatgttataagctcacatgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_tetraodon_nigroviridis   gaggggtacatttaaatgctaatgttataagctcacacgcctaatatgataagctgacaagct---tattataagc--t
+3145_orylat2_chr10_9250916_9251095_umbra_limi               aa--agaacatttaaatgctaatattataagctcacaagcattatatgataagctgacaagct---tattataagc--t
+;
+end;

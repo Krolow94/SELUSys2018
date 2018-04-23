@@ -1,0 +1,21 @@
+#NEXUS
+begin data;
+	dimensions ntax=14 nchar=93;
+	format datatype=dna missing=? gap=-;
+matrix
+56271_orylat2_chr8_10125366_10125546_acanthurus_japonicus     ccgacctggcaagcttccttct------ctc-tttgttccacagtgacagtcctgatggcaaattgatttcgactgtgtgagaacagacatac
+56271_orylat2_chr8_10125366_10125546_anchoa_compressa         tccacctggcacgattccttct------ctc-tttgttcc------acagttccgatggcaaattgatttcgacagtgtgagcacaggcagac
+56271_orylat2_chr8_10125366_10125546_antennarius_striatus     ccgacctggcaagcttccttct------ctc-tttgttccacagtgacagtcctgatggcaaattgatttcgactgtgtgagaacagacatac
+56271_orylat2_chr8_10125366_10125546_astyanax_fasciatus       ccgacctggcaagcttccttct------ctc-tttgttcc------acagttccgatggcaaattgatttcgacagtgtgagcacagacaggc
+56271_orylat2_chr8_10125366_10125546_danio_rerio              ccgacctggcaagcttccttct------ctc-tttgttcc------acagttccgatggcaaattgatttcgacagtgtgaacacagacagac
+56271_orylat2_chr8_10125366_10125546_gadus_morhua             ccgacctggcaagcctccttct------ctcctttgttccacagcgacagtcctgatggcaaattgatttcgactgtgtgagaacagacatac
+56271_orylat2_chr8_10125366_10125546_gasterosteus_aculeatus   ccgacctggcaagcttccttct------ctc-tttgttccacagtgacagtcctgatggcaaattgatttcgactgtgtgagaacagacataa
+56271_orylat2_chr8_10125366_10125546_megalops_sp              ccgacctggcacgcctccttct------ctc-tctgtttc------gcagttcggatggcaaattgatttcgacagtgtgagaacagacagac
+56271_orylat2_chr8_10125366_10125546_oryzias_latipes          ccgacctggcaagcttccttct------ctc-tttgttccacagtgacagtcctgatggcaaattgatttcgactgtgtgagaacagacttac
+56271_orylat2_chr8_10125366_10125546_osteoglossum_bicirrhosum caaacctggcgagcttccttct------ctc-tttgttcc------acagttccgatggcaaattgatttccacagtgtgagagcagacagac
+56271_orylat2_chr8_10125366_10125546_salvelinus_fontinalis    cccacctggcaagcttcctttctctttgttc-cttgttccacagttctgatcccgatggcaaattgatttcgacagtgtgagaacagacag--
+56271_orylat2_chr8_10125366_10125546_strophidon_sathete       cccacccggcaccgttccttct------ctt-tttgttcc------acagttccgatggcaaattgatttcaactgtgtgagaacagacag--
+56271_orylat2_chr8_10125366_10125546_takifugu_rupribes        ccgacctggcaagcttccttct------ctc-tttgttccacagtgacagtcctgagggcaaattgatttcgactgtgtgagaacagacagac
+56271_orylat2_chr8_10125366_10125546_tetraodon_nigroviridis   ccgacctggcaagcttccttct------ctc-tttgttccacagtgacagtcctgagggcaaattgatttcgactgtgtgagaacagacatac
+;
+end;

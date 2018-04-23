@@ -1,0 +1,28 @@
+#NEXUS
+begin data;
+	dimensions ntax=21 nchar=120;
+	format datatype=dna missing=? gap=-;
+matrix
+29398_orylat2_chr20_19110428_19110608_acanthurus_japonicus     ccttcac-aagcctttattatttataacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_acipenser_fulvescens     cctcatc---tcttttattatttataacact--cactc-tttgagcactgaccagtactaatacataacctttt-gtccttct-ggctgattcactttcttttgaaactga-agattgaa
+29398_orylat2_chr20_19110428_19110608_amia_calva               ccttctc-catcctttattatttataactct--cactc-tttgagcaatgaccagtactaatacataacctttt-gtccttct-agctgattcactttcttttgaaactga-agattgaa
+29398_orylat2_chr20_19110428_19110608_antennarius_striatus     ccttcac-aagcctttattatttataacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_astyanax_fasciatus       ccttccctgagcctttattatttatgacggt--gtctc-tttgagcactgaccagtactaatgcataaccttct-gtccttct-gccttattcgct-tcctttgaaaccaagagactgag
+29398_orylat2_chr20_19110428_19110608_danio_rerio              ------------------------------------------------tgaccagtactaatgcataaccccct-gtccttct-gccttataagat-ccctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_diaphus_theta            ccttcac-aagcctttattatttataacgctcccgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttctgggctgattcact-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_gasterosteus_aculeatus   ccttcac-gagcctttattatttataacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_haplochromis_burtoni     ccttcac-aagcctttattatttataacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_lampris_guttatus         ccttcac-aagcctttattatttatgacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_lepisosteus_oculatus     ccttctc-cttcctttattatttataactct--cactc-tttgagcaatgaccagtactaatacataacctttt-gtccttct-tgctgattcac--tcttttgaaactga-agattgaa
+29398_orylat2_chr20_19110428_19110608_neolamprologus_brichardi ccttcac-aagcctttattatttataacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_oreochromis_niloticus    ccttcac-aagcctttattatttataacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_oryzias_latipes          ccttcac-aagcctttattatttataacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_polypterus_senegalus     cctgttc---tcttttattatttataacact--cactc-tttgagcactgaccagtactaatacataacctttt-gtccttct-ggctgattcactttcttttgaaactga-agattgaa
+29398_orylat2_chr20_19110428_19110608_pundamilia_nyererei      ccttcac-aagcctttattatttataacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_strophidon_sathete       ccttcgc-tatcctttattatttataactca--cagtc-tttgagcaatgaccagtactaatacataaccttttcgtccctct-ggctgattcactccttttatacattga-agattgag
+29398_orylat2_chr20_19110428_19110608_taenianotus_triacanthus  ccttcac-aagcctttattatttataacgct--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_takifugu_rupribes        ccttcac-aagcctttattatttataacact--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_tetraodon_nigroviridis   ccttcac-aagcctttattatttataacact--cgctc-tttgagcaatgaccagtactaatgcataaccttct-gtccttct-ggctgattcgct-tcctttgaaaccaa-agattgag
+29398_orylat2_chr20_19110428_19110608_umbra_limi               gcttcac-aagcctttattatttataacgct--ggctcttttgagcaatgaccagtactaatgtataaccttgt-gtccttct-ggcagattcgct-ttctttgaaaccaa-agattgaa
+;
+end;

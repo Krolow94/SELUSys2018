@@ -1,0 +1,27 @@
+#NEXUS
+begin data;
+	dimensions ntax=20 nchar=58;
+	format datatype=dna missing=? gap=-;
+matrix
+2775_orylat2_chr10_5723437_5723616_acanthurus_japonicus     agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_acipenser_fulvescens     ggacaccaagatcaaaatcaccagcgtaaaaatcttcacattcattttc----tcctt
+2775_orylat2_chr10_5723437_5723616_amia_calva               agacaccaacagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_antennarius_striatus     agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_astyanax_fasciatus       agaaaccagcagcacaatcaccaacgtcaggatcttcacattca-tttcggctcgccc
+2775_orylat2_chr10_5723437_5723616_danio_rerio              agaaaccaccagcacaatcaccagcgtcaagatcttcacattca-tttc----tgctc
+2775_orylat2_chr10_5723437_5723616_diaphus_theta            agacaccaagagcacaatcaccagcgtcagaatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_gasterosteus_aculeatus   agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_haplochromis_burtoni     agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_lampris_guttatus         agaaaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_lepisosteus_oculatus     agacaccaacagcacaatcaccagtgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_neolamprologus_brichardi agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_oreochromis_niloticus    agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_oryzias_latipes          agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_pantodon_buchholzi       gcacagcaccagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_pundamilia_nyererei      agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_taenianotus_triacanthus  agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_takifugu_rupribes        agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_tetraodon_nigroviridis   agacaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+2775_orylat2_chr10_5723437_5723616_umbra_limi               agccaccaagagcacaatcaccagcgtcaggatcttcacattca-tttc----tgcac
+;
+end;

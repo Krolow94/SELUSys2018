@@ -1,0 +1,15 @@
+#NEXUS
+begin data;
+	dimensions ntax=8 nchar=260;
+	format datatype=dna missing=? gap=-;
+matrix
+65484_orylat2_ultracontig182_2773954_2774133_acanthurus_japonicus     gctgctggtgtgtcatgtctgtataagcaggcattgatttttctgtcctggcctgccacctccaccatttattctctgctttgcaccagggcccagaggaccagagaaattctgttacagtccacacactcgca---------------------------------------aaacacacacacacaccccgcagggccagtggggagaatagagttcacctgtccagc-gtccctgaccacttagccagggctaaatg
+65484_orylat2_ultracontig182_2773954_2774133_amia_calva               ggcttgggtctgtcatgtctgtataaccaggcattgatttttctgtcgaggcctggcacttcagccatttattctctgctttgcggttgggcccaaagggtttgaaaaattctgttacagtccagttgc---------------------------------------------------------ccc----tgaggcaaatgt-gagaatagatttcacctgtaca---ggcccacaccacttatccag---------
+65484_orylat2_ultracontig182_2773954_2774133_antennarius_striatus     gctgctggtgtgtcatgtctgtataagcaggcattgatttttctgtcctggcctgccacctccgccatttattctctgctttgcaccagggcccagaggactggtgaaattctgttacagtcctcacacacacatacgctcacacatgcatgcgctcacacaaacacacagacgagcgcacacacactccctgcagggccagatgagagaatagagttcacctgtccagc-gtccctgaccacttagccagggctaaatg
+65484_orylat2_ultracontig182_2773954_2774133_diaphus_theta            gctgctggtgtgtcatgtctgtataagcaggcattgatttttctgtcctggcctgccacctccaccatttattctctgctttgcgccagggcccagaggactggagaaattctgttagcgcgcacgcacgcacgcacacacacacacacacacacacacacac------------acacacacacacat-----------------------------------------------------------------------
+65484_orylat2_ultracontig182_2773954_2774133_lepisosteus_oculatus     gcccggggtctgtcatgtctgtataaccaggcattgatttttctgtcgaggcctggcacttcagccatttattctctgctttgcggttgggcccaaagggtttgaaaaattctgttacagtccagttgc---------------------------------------------------------ccc----tgaggcaaatgt-gagaatagatttcacctgtaca---gacccacaccacttatccagggcacgggc
+65484_orylat2_ultracontig182_2773954_2774133_osteoglossum_bicirrhosum gctcccggactgtcatgtctgtataaacaggcattgatttttctgtccagacctggcacctcggccatttattctctactttgcggttgggcccaaagggtttgaaaaattctgttacagtccagttgc---------------------------------------------------------ccc----tgaggcaaatgt-gagaatagatttcacctgtaaagggggccggcaccacttatccggggcaagggc
+65484_orylat2_ultracontig182_2773954_2774133_taenianotus_triacanthus  gctgctggtgtgtcatgtctgtataagcaggcattgatttttctgtcctggcctgccaccgctaccatttattctctgctttgcaccagggcccagaggactagagaaattctgttacagtccacacac----------------------------------------------acactcatacacaccctgcagggccagtggggagaatagagttcacctgtccagc-gtccctgaccacttagccagggctaaatg
+65484_orylat2_ultracontig182_2773954_2774133_umbra_limi               -----------ggcgtgtctgtataagcagccattgatttttctgtcctgcactgccacctccaccatttatactctgctttgcgccaggtcccaaaggattacagaaatcctgttacaagctgcctcc---------------------------------------------------------cccatcccggccccaatgtggagaacagagttcacgtgcgctgtgctctcacaccacttagacagggccagcag
+;
+end;
