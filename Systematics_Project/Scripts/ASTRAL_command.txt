@@ -1,0 +1,1 @@
+java	-jar	astral.5.5.1.jar	-i data/RAxML_bestTree.sample	-o data/ASTRAL.tree
